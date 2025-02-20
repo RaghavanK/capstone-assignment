@@ -24,7 +24,7 @@ What suggestions do you have for next steps?
 
 #### Outline of project
 
-- [Link to notebook 1]()
+- [Link to notebook](https://github.com/RaghavanK/capstone-assignment/blob/main/cancer-prediction.ipynb)
 
 
 ##### Contact and Further Information
