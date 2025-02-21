@@ -18,9 +18,11 @@ I am going to use EDA, regression and other emsemble techniques to predict cance
 
 #### Results
 What did your research find?
+ANXIETY, YELLOW_FINGERS, SWALLOWING DIFFICULTY parameters have strong correlation and gives good model predictions 
 
 #### Next steps
 What suggestions do you have for next steps?
+We need to future construct more models to validate and improve on baseline model
 
 #### Outline of project
 
